@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "Universe 9 - Spleef",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"spleef.coordinator": {
+			"textures": "textures/items/Coordinator"
+		}
+	}
+}
