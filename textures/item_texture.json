@@ -4,6 +4,9 @@
 	"texture_data": {
 		"spleef.coordinator": {
 			"textures": "textures/items/Coordinator"
+		},
+		"spleef.spleef_remote": {
+			"textures": "textures/items/Spleef Remote"
 		}
 	}
 }
