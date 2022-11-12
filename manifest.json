@@ -5,7 +5,7 @@
         "description": "This module will provide Universe 9 with a spleef minigame!",
 		"uuid": "99945d92-0c35-451e-b5ea-bad151918a00",
 		"version": [1, 0, 1],
-		"min_engine_version": [1, 19, 40]
+		"min_engine_version": [1, 19, 41]
 	},
 	"modules": [
 		{
